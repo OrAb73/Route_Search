@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Or\Desktop\Graphics (2)\Graphics\Graphics\main.cpp(89,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Or\Desktop\Graphics (2)\Graphics\Graphics\main.cpp(137,8): warning C4101: 'p': unreferenced local variable
+C:\Users\Or\Desktop\Graphics (2)\Graphics\Graphics\main.cpp(329,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Graphics.vcxproj -> C:\Users\Or\Desktop\Graphics (2)\Graphics\Debug\Graphics.exe
